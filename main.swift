@@ -1,30 +1,30 @@
-// import Foundation
-// import Glibc
-// // How to get input in swift
+import Foundation
+import Glibc
+// How to get input in swift
 
-// // How to output in swift
-// var myVar: Int = 10
-// print(myVar)
+// How to output in swift
+var myVar: Int = 10
+print(myVar)
 
-// // How to declare a variable in swift
-// var myVar2: Int;
+// How to declare a variable in swift
+var myVar2: Int;
 
-// // How to initialize a variable
-// myVar2 = 20;
+// How to initialize a variable
+myVar2 = 20;
 
-// // How to use a variable to print a value
-// print(myVar2);
+// How to use a variable to print a value
+print(myVar2);
 
-// // How to declare if-else in swift
-// if myVar2 > 10 
-// {
-// print("\(myVar2) is larger !");
+// How to declare if-else in swift
+if myVar2 > 10 
+{
+print("\(myVar2) is larger !");
   
-// } else {
-//   print("\(myVar2) is smaller !");
+} else {
+  print("\(myVar2) is smaller !");
   
-// }
-// // How to declare a switch statement in swift
+}
+// How to declare a switch statement in swift
 
 import Foundation
 import Glibc
